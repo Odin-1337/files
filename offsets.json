@@ -1,11 +1,11 @@
  {
-   "UObjects": -0X1,
-   "UObjectsCount": -0X1,
-   "GWorld": -0X1,
-   "GWorldDecrypt": -0X1,
-   "GNames": -0X1;
-   "FNamePool": -0X1,
+   "UObjects": "",
+   "UObjectsCount": "",
+   "GWorld": "",
+   "GWorldDecrypt": "",
+   "GNames": "";
+   "FNamePool": "",
 
-   "UObjects::NamePrivate": -0X1
+   "UObjects::NamePrivate": ""
    
  }
